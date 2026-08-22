@@ -1,6 +1,6 @@
 # MySklearn Project
 
-Hello! I am Robert Yarel Zapata Linares, a technology professional in AI, and I hold certifications in Data Engineering and Python Developer.
+Hi! I'm Yarel, an AI & Backend Developer focused on building practical AI systems that combine machine learning, backend engineering, and data security. I enjoy building projects where AI is not just a model, but an integral part of a complete software system—from data processing and model development to backend integration and deployment.
 
 ## Version 1 of the project
 
@@ -20,13 +20,6 @@ This is version 1 of the project, which includes only one model: linear regressi
 ### Overview
 
 This project is designed as an educational and minimalist implementation of a linear regression model, along with a set of metrics to evaluate its performance. In this version, only linear regression is included as the main model, without extensions or additional models.
-
-### Project structure
-
-- mysklearn/
-  - metrics/
-    - __init__.py
-    - metrics.py
 
 ### Objective
 
